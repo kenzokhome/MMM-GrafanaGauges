@@ -36,6 +36,7 @@ modules: [
 					port: 3000, // Mandatory.
 					https: false, // Optional. Consider using TLS for your data. Default: false
 					dashboardname: "flowers", // Mandatory.
+					dashboardDB:"d-solo/asda",
 					orgId: 1, // Mandatory.
 					showIDs: [12, 8, 9, 10],// Mandatory. PanelId from the url.
 					width: "100%", // Optional. Default: 100%
