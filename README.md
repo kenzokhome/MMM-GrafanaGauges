@@ -6,7 +6,7 @@ This [MagicMirror²] module allows you to display several gauges in a row genera
 <b>Important Note:</b> This module requires a running grafana installation. To install Grafana, follow the official [installation instructions](http://docs.grafana.org/installation/).
 
 <b>[This blogpost](http://www.robstechlog.com/2017/06/30/personal-weather-chart-module/) describes how to install and use grafana and build a weatherchart.</b><br>
-![example of a grafana weather gauges](https://github.com/SvenSommer/MMM-GrafanaGauges/blob/master/MMM-GrafanaGauges.png?raw=true)
+![example of a grafana weather gauges](https://github.com/kenzokhome/MMM-GrafanaGauges/blob/master/MMM-GrafanaGauges.png?raw=true)
 
 ## Installation of the module
 
@@ -52,7 +52,7 @@ modules: [
 Everything needed is extractable from the <code>url</code> when you're viewing your gauge using grafana in your browser.<br>
 <b>The <code>panelid</code> from each gauges has to be represented within the showIDs-array. Also the order set within this array.</b>
 
-![url provides needed information](https://github.com/SvenSommer/MMM-GrafanaGauges/blob/master/url_explainend.png?raw=true)
+![url provides needed information](https://github.com/kenzokhome/MMM-GrafanaGauges/blob/master/url_explainend.png?raw=true)
 ## Optional configuration options
 
 The following properties can be configured:
