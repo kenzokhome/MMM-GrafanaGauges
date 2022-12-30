@@ -17,7 +17,7 @@ cd ~/MagicMirror/modules
 
 Clone this repository:
 ````
-git clone https://github.com/SvenSommer/MMM-GrafanaGauges
+git clone https://github.com/kenzokhome/MMM-GrafanaGauges
 ````
 
 Configure the module in your `config.js` file.
